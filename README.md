@@ -1,24 +1,13 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Salut, c est atilla kahraman
 
-* Ruby version
+Jai creer les objets Doctor, Patient et Appointment
 
-* System dependencies
+ils sont lies en N-N tout est migrate
 
-* Configuration
+300/400 seed dans doctors et patients
 
-* Database creation
+ajouté city avec refenrences tout est migrate, ya plus qu a test
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+merci pour la correction 
